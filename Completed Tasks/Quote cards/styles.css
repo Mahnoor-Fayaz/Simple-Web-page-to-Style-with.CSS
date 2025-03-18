@@ -1,0 +1,53 @@
+body{
+    background-color: aqua;
+    padding: 0;
+    margin: 0;
+}
+
+.div{
+    border-radius: 20px;
+    padding: 0;
+    background-color: cadetblue;
+}
+
+.header{
+    font-style: italic;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: violet;
+    text-align: center;
+    text-wrap: wrap;
+}
+
+.navbar{
+   padding:10px 20px;
+    text-align: center;
+    background-color: brown;
+    justify-content: center;
+}
+.navbar a{
+    margin: 0 15px;
+    text-decoration: none;
+    color: crimson;
+    font-weight: bold;
+}
+.features{
+display: flex;
+justify-content: space-evenly;
+padding: 20px;
+text-align: center;
+}
+.columns{
+    box-sizing: border-box;
+    background-color: chocolate;
+    text-align: center;
+    text-wrap:wrap ;
+}
+.footer{
+    font-style: italic;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: violet;
+    text-align: center;
+    text-wrap: wrap;
+}

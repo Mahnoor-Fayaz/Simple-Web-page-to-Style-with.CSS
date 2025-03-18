@@ -1,0 +1,29 @@
+.body{
+    margin-top: 2px;
+    padding-bottom: 2px;
+}
+nav{
+    background-color: gray;
+    padding: 30px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+nav ul{
+    list-style: none;
+      display: flex;
+    align-items: center;
+    margin: 2px;
+    justify-content: space-around;
+}
+
+
+img{
+    height: 50px;
+    width: 50px;
+
+}
+nav a{
+    color: black;
+    text-decoration: solid;
+}

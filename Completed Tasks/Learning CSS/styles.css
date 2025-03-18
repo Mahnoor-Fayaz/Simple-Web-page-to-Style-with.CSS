@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+    border-radius: 2px;
+    border-color: black saddlebrown;
+    
+     padding: 4px;
+     margin: 4px; 
+}
+h1{
+    font-style: italic;
+}
+p{
+    text-align: center;
+    align-items: center;
+    color: black;
+    font-style: inherit;
+    font-weight: bold;
+}
+ul{
+   
+    font-style: italic;
+    font-size: medium;
+
+ 
+}
